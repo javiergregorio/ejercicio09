@@ -54,6 +54,7 @@ public class PantallaLayout extends GridLayout {
 		Button boton4 = new Button("Envido");
 		Button boton5 = new Button("Ordago");
 		
+		
 		VerticalLayout verticalLayout = new VerticalLayout();
 		
 		HorizontalLayout horizontalLayout1 = new HorizontalLayout();

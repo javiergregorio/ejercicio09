@@ -64,13 +64,6 @@ public class MyUI extends UI {
         sample.addTab(tapete3, "Jugador3");
         sample.addTab(tapete4, "Jugador4");
         
-        
-
-        Button boton1 = new Button("MUS");
-        Button boton2 = new Button("No MUS");
-        Button boton3 = new Button("Paso");
-        Button boton4 = new Button("Envido");
-        Button boton5 = new Button("Ordago");
 
 
         layout.addComponent(sample);
